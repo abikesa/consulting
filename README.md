@@ -34,23 +34,23 @@ So basically, the [harmonic series](https://www.reddit.com/user/phearsom_fysic/)
 
 The first widely used tuning was the Pythagorean tuning, which stacked the 3:2 ratios (ie perfect fifth intervals) on top of each other. If you start with C you get the following.
 
-C - G - D - A - E - B
+`C - G - D - A - E - B`
 
 But, you know what, B sounds close enough to C (what we now call a minor second, but slightly off). So why don't we just make it a C, move all the notes into the same octave, and call it a pentatonic scale. Easy!
 
-C - D - E - G - A - C
+`C - D - E - G - A - C`
 
 But wait, theres more. What if we keep stacking up.
 
-C - G - D - A - E - B - F#(Gb) - C#(Db)
+`C - G - D - A - E - B - F#(Gb) - C#(Db)`
 
 If we stop there and just flatten the last two a little bit. We get the diatonic scale.
 
-C - D - E - F - G - A - B - C
+`C - D - E - F - G - A - B - C`
 
 But wait, there's even more! What if we keep going?
 
-C - G - D - A - E - B - F#(Gb) - C#(Db) - G#(Ab) - D#(Eb) - A#(Bb) - F - C
+`C - G - D - A - E - B - F#(Gb) - C#(Db) - G#(Ab) - D#(Eb) - A#(Bb) - F - C`
 
 Wow, we just made all the notes. Well, the top C is a little off, but we can just contract it (by 24 cents, called the Pythagorean comma) and it's pretty much perfect. The only problem with Pythagorean tuning is trying to move to different keys on the one instrument. If you change key without retuning your harpsichord, that Pythagorean comma is going to pop up in a different place of every scale. Not fun.
 
