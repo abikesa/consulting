@@ -26,7 +26,7 @@
        3. Formula -> 2. Modifier -> 5. Verb -> 6. Object
                      /
                       4. Subject
-```
+```   
 
 
 
