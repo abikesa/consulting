@@ -28,7 +28,7 @@
                       4. Subject
 ```
 
----
+
 
 So basically, the [harmonic series](https://www.reddit.com/user/phearsom_fysic/) was discovered by Pythagoras (that's right, the math guy) when he walked past a blacksmith and heard that a bit of metal being hit gave more than one tone (so the story goes). He then devised a ratio (he used string lengths) that would get you the same sound just... higher (what we call an octave). This ratio is 2:1; or for every time one string vibrates once, another vibrates twice. The other basic ratios are 3:2, (one string vibrating thrice while the other vibrates twice), giving you a perfect fifth; and 4:3, giving you a perfect fourth. These perfect intervals (except for the octave) are no longer used today however thanks to equal temperament, but they sound absolutely 100% pure.
 
@@ -61,3 +61,11 @@ Eventually, Vincenzo Galilei, father of the famous Galileo, came along and said 
 tl;dr: The pentatonic, diatonic, and chromatic scales were all built by stacking up perfect (like, 3:2 ratio perfect) fifths until we got more or less back to where we started.
 
 And, equal temperament ruined harmony, but made it really easy to play with a bunch of other people.
+
+```
+           1. Genre
+                   \
+        3. Mode -> 2. History -> 5. Voicing -> 6. Pocket
+                   /
+                    4. Quality
+```
